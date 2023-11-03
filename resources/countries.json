@@ -1,0 +1,152 @@
+[
+  {
+    "Name": "United States",
+    "Population": 331002651,
+    "Capital": "Washington, D.C."
+  },
+  {
+    "Name": "Canada",
+    "Population": 37742154,
+    "Capital": "Ottawa"
+  },
+  {
+    "Name": "United Kingdom",
+    "Population": 67886011,
+    "Capital": "London"
+  },
+  {
+    "Name": "France",
+    "Population": 65273511,
+    "Capital": "Paris"
+  },
+  {
+    "Name": "Germany",
+    "Population": 83783942,
+    "Capital": "Berlin"
+  },
+  {
+    "Name": "Italy",
+    "Population": 60461826,
+    "Capital": "Rome"
+  },
+  {
+    "Name": "Spain",
+    "Population": 46754778,
+    "Capital": "Madrid"
+  },
+  {
+    "Name": "Australia",
+    "Population": 25499884,
+    "Capital": "Canberra"
+  },
+  {
+    "Name": "China",
+    "Population": 1439323776,
+    "Capital": "Beijing"
+  },
+  {
+    "Name": "India",
+    "Population": 1380004385,
+    "Capital": "New Delhi"
+  },
+  {
+    "Name": "Japan",
+    "Population": 126476461,
+    "Capital": "Tokyo"
+  },
+  {
+    "Name": "South Korea",
+    "Population": 51269185,
+    "Capital": "Seoul"
+  },
+  {
+    "Name": "Mexico",
+    "Population": 128932753,
+    "Capital": "Mexico City"
+  },
+  {
+    "Name": "Brazil",
+    "Population": 212559417,
+    "Capital": "Brasília"
+  },
+  {
+    "Name": "Argentina",
+    "Population": 45195777,
+    "Capital": "Buenos Aires"
+  },
+  {
+    "Name": "South Africa",
+    "Population": 59308690,
+    "Capital": "Pretoria"
+  },
+  {
+    "Name": "Nigeria",
+    "Population": 206139589,
+    "Capital": "Abuja"
+  },
+  {
+    "Name": "Egypt",
+    "Population": 102334404,
+    "Capital": "Cairo"
+  },
+  {
+    "Name": "Russia",
+    "Population": 145934462,
+    "Capital": "Moscow"
+  },
+  {
+    "Name": "Saudi Arabia",
+    "Population": 34813871,
+    "Capital": "Riyadh"
+  },
+  {
+    "Name": "Turkey",
+    "Population": 84339067,
+    "Capital": "Ankara"
+  },
+  {
+    "Name": "Greece",
+    "Population": 10423054,
+    "Capital": "Athens"
+  },
+  {
+    "Name": "Netherlands",
+    "Population": 17134872,
+    "Capital": "Amsterdam"
+  },
+  {
+    "Name": "Sweden",
+    "Population": 10099265,
+    "Capital": "Stockholm"
+  },
+  {
+    "Name": "Norway",
+    "Population": 5421241,
+    "Capital": "Oslo"
+  },
+  {
+    "Name": "Canada",
+    "Population": 37742154,
+    "Capital": "Ottawa"
+  },
+  {
+    "Name": "Ireland",
+    "Population": 4937786,
+    "Capital": "Dublin"
+  },
+  {
+    "Name": "New Zealand",
+    "Population": 4822233,
+    "Capital": "Wellington"
+  },
+  {
+    "Name": "Chile",
+    "Population": 19116201,
+    "Capital": "Santiago"
+  },
+  {
+    "Name": "Peru",
+    "Population": 32971854,
+    "Capital": "Lima"
+  }
+]
